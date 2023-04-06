@@ -1,1 +1,1 @@
-# PIGPTimoshenkoBeam
+# System identification of Timoshenko beams via physics-informed Gaussian processes
